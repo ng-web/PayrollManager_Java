@@ -1,0 +1,18 @@
+			ABC Company
+	Name: Bob Sawyer  - Employee Id: 1000
+	Pay Date 	 05/25/2022
+	Gross Salary $65000.0
+	Net Salary $45500.0
+
+			ABC Company
+	Name: Jane White  - Employee Id: 1001
+	Pay Date 	 05/25/2022
+	Gross Salary $57000.0
+	Net Salary $39900.0
+
+			ABC Company
+	Name: Joe Brown  - Employee Id: 1002
+	Pay Date 	 05/25/2022
+	Gross Salary $50000.0
+	Net Salary $35000.0
+
